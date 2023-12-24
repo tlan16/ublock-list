@@ -1,0 +1,56 @@
+! 2021-09-13 https://superuser.com
+superuser.com###noscript-warning
+
+! 2021-09-16 https://music.youtube.com
+music.youtube.com##tp-yt-paper-dialog.ytmusic-popup-container.style-scope
+
+! 2021-10-19 https://git.aarnet.edu.au
+git.aarnet.edu.au##.sticky.flash-container-page.flash-container
+
+! 2021-10-20 http://localhost:9100
+localhost##.sd-warning-banner
+
+! 2021-10-21 https://www.kmart.com.au
+www.kmart.com.au###progress_bar_dialog > .dijitDialogPaneContent
+
+! 2021-11-26 https://livecodestream.dev
+livecodestream.dev##.Campaign--css.CampaignType--popup.Campaign.gilbert-campaign
+
+! 2021-11-29 https://www.centrecom.com.au
+www.centrecom.com.au##.featherlight
+
+! 2021-12-28 https://en.wikipedia.org
+en.wikipedia.org##.cn-fundraising
+
+! 2022-08-21 https://github.com
+github.com##.mb-4.flash-warn.flash
+
+! 2023-09-05 https://mxtoolbox.com
+mxtoolbox.com###supertool_ad_variation > .supertool_ad_static
+mxtoolbox.com###supertool_ad_variation > .supertool_ad_dynamic
+
+! 2023-09-06 https://www.floodmap.net
+www.floodmap.net###previewbox
+
+! 2023-09-07 https://www.evernote.com
+www.evernote.com##.FleChecklist-root
+
+! 2023-09-27 https://www.reddit.com
+www.reddit.com###left-sidebar-container
+www.reddit.com###right-sidebar-container
+
+! 2023-10-12 https://www.dev.property.com.au
+www.dev.property.com.au##.gdpr-consent-element-wrapper
+
+! 2023-10-13 https://www.youtube.com
+www.youtube.com##[is-shorts]
+
+! 2023-10-17 https://miro.com
+miro.com##permanent-message
+
+! 2023-10-19 https://www.analyticsvidhya.com
+www.analyticsvidhya.com##.show.modal-backdrop
+www.analyticsvidhya.com###loginModal
+
+! 2023-10-28 https://www.youtube.com
+www.youtube.com##.ytd-clarification-renderer.style-scope.container
